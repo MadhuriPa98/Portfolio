@@ -1,0 +1,29 @@
+div.divider {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+h1, h2 {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  opacity: 1;
+}
+
+h3, h4, h5, h6 {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+  opacity: 1;
+}
+
+div.work img {
+  width: 120px;
+  margin: 20px;
+  margin-top: 50px;
+}
+
